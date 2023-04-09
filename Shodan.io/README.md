@@ -17,7 +17,7 @@
 
 ## **Task 2 ( Filters )**
 
-- Trên trang chủ Shodan.io, chúng ta có thể nhấp vào “khám phá” để xem các truy vấn tìm kiếm được bình chọn nhiều nhất. Phổ biến nhất là webcam.
+- Trên trang chủ Shodan.io, chúng ta có thể nhấp vào “Explore” để xem các truy vấn tìm kiếm được bình chọn nhiều nhất. Phổ biến nhất là webcam.
 - <https://www.shodan.io/explore>
 
 - Một trong những tìm kiếm thịnh hành:
