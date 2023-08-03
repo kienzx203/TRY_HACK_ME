@@ -18,7 +18,6 @@
 
 - Trong khi sử dụng Metasploit Framework, bạn sẽ chủ yếu tương tác với bảng điều khiển Metasploit.
 
-- Trong khi sử dụng Metasploit Framework, bạn sẽ chủ yếu tương tác với bảng điều khiển Metasploit.
 
 - Bảng điều khiển sẽ là giao diện chính của bạn để tương tác với các mô-đun khác nhau của Metasploit Framework. Các mô-đun là các thành phần nhỏ trong khuôn khổ Metasploit được xây dựng để thực hiện một nhiệm vụ cụ thể, chẳng hạn như khai thác lỗ hổng, quét mục tiêu hoặc thực hiện một cuộc tấn công vũ phu.
 
